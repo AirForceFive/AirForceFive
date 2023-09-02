@@ -11,3 +11,4 @@
 
 
 [linkedin]: https://linkedin.com/in/tonolio-carlson-b84b29226
+- <a href="https://linkedin.com/in/tonolio-carlson-b84b29226"><b>Find me on LinkedIn</b><a/>
