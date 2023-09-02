@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lio! Passionate about CyberSecurity<br/><a href="https://github.com/AirForceFive/Azure-SOC">Programmer</a>, <a href="https://www.linkedin.com/in/tonolio-carlson-b84b29226/">Cybersecurity Professional</a>
+<h1>Hi, I'm Lio! Passionate about <br/><a href="https://github.com/AirForceFive/Azure-SOC">CyberSecurity</a>, <a href="https://www.linkedin.com/in/tonolio-carlson-b84b29226/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
